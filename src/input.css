@@ -27,3 +27,7 @@
 .hover-darklink {
     @apply border-b border-transparent hover:border-dark-violet-2
 }
+
+.hover-lightlink {
+    @apply border-b border-transparent hover:border-white
+}
